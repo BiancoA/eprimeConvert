@@ -5,7 +5,7 @@ A small script to read data from eprime txt format and count the correct and wro
 
 From console:
 
-```
+```bash
 python3 script.py nPatients FoldertxtFiles outFile.csv
 ```
 
