@@ -1,5 +1,5 @@
 ### eprimeConvert
-A small script to read data from eprime txt format and count the correct and wrong responses, stored in the variable Stimulus.ACC. The result for several trials (known structure) is stored in a csv file. 
+A small script to read data from eprime txt format and count the correct and wrong responses, stored in the variable Stimulus.ACC. The result for several trials of known structure and order is stored in a csv file. 
 
 ###Usage
 
